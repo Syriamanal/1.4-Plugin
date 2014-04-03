@@ -1,0 +1,10 @@
+api: [1.0.0]
+version: 1.0
+name: "Call Of Duty"
+main: CallOfDuty\CallOfDuty0\MainPlugin
+authors:
+- Syriamanal
+- Syriamanal PC
+load: STARTUP
+description: "PEMapModder's example plugin 0 for the Zekkou Cake plugin API"
+website: "https://github.com/PEMapModder/MyExampleZekkouCakePlugin/tree/master/ExamplePLugins/ExamplePlugin0/"
